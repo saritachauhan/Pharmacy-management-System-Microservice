@@ -24,7 +24,7 @@
 		</div>
 		<div class="col">
 			<div class="card bg-light text-center" style="width: 18rem;">
-				<img class="card-img-top" src="https://www.webretailer.com/wp-content/uploads/2018/08/Busy-warehouse.jpg" alt="img medicine stock">
+				<img class="card-img-top" src="/images/Busy-warehouse.jpg" alt="img medicine stock">
 				<div class="card-body">
 					<h5 class="card-title">Medicine Stock</h5>
 					<p class="card-text">Click here to view detailed list of

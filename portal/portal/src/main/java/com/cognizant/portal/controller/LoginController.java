@@ -38,13 +38,13 @@ public class LoginController {
 		return modelAndView;
 	}
 
-	@GetMapping("/home")
-	public String home() {
-
-		
-		return "homepage";
-	}
-
+	
+	  @GetMapping("/home") 
+	  public String home() 
+	  { 
+	  return "login"; 
+	  }
+	 
 
 	@PostMapping("/homepage")
 	public ModelAndView userLogin(@ModelAttribute("usercredentials") UserLoginCredential usercredentials,
