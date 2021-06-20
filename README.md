@@ -1,5 +1,5 @@
 # Pharmacy-managment-System-Microservice
-Pharmacy managament System is a microservice in a java spring boot application where we can check all the details of the doctor and the medicine stock which is being supplied to the doctor and the customer
+A Pharmaceutical company wants to automate the logic of forming a schedule for their medical representatives to meet the targeted doctors to explain their medicines and its nature for prescription. Based on the response from doctors, the medicine demand will be determined. This should be fed into the system to determine the medicine supply detail to its Pharmacists. The application developed will target this requirement. 
 
 # Technologies Used
  1. Spring boot
