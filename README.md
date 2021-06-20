@@ -7,7 +7,7 @@ Technologies Used
  3. JSP And Html for web design
 
 Deployment and Orchestartion tools
-	1.Docker
+ 1.Docker
  2.AWS Fargate
  3.ECS for Containerization
  4.ECR for Clusters
@@ -16,6 +16,6 @@ Deployment and Orchestartion tools
  7.Aws Code Build
 
 Unit Testing
-	1.Junit testing
+ 1.Junit testing
 
 
