@@ -18,4 +18,7 @@ Pharmacy managament System is a microservice in a java spring boot application w
 # Unit Testing
  1. Junit testing
 
+# Deployment Link
+
+http://3.236.161.168:8080/user/login
 
