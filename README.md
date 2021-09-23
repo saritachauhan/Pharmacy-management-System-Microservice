@@ -18,7 +18,3 @@ A Pharmaceutical company wants to automate the logic of forming a schedule for t
 # Unit Testing
  1. Junit testing
 
-# Deployment Link
-
-http://3.236.161.168:8080/user/login
-
